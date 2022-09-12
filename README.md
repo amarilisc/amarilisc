@@ -1,3 +1,5 @@
+
+
 ### Hello world! I'm Liz! 
 It's very nice to see you here! ✨ 
 
@@ -18,6 +20,6 @@ It's very nice to see you here! ✨
 <div align="center">
   <p></p>
   <a href="https://github.com/amarilisc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amarilisc&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarilisc&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amarilisc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarilisc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
