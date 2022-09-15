@@ -1,6 +1,6 @@
-
-
-### Hello world! I'm Liz! 
+<!-- Profile page - github
+-->
+### Hello world! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Liz! 
 It's very nice to see you here! ✨ 
 
 - 👩‍🎓 I'm currently learning <b>Web Full Stack</b> development
