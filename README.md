@@ -18,11 +18,21 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarilisc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h2>Learning</h2>
+<h3>Dev</h3>
 <div align="left">
 <img align="center" alt="Amarilis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Amarilis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Amarilis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Amarilis-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="Amarilis-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+</div>
+  
+<h3>Design</h3>
+<div align="left">
+  <img align="center" alt="Amarilis-blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg">
+  <img align="center" alt="Amarilis-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
+  <img align="center" alt="Amarilis-ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Amarilis-ai" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg">
 </div>
 
 <h2></h2>
